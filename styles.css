@@ -1,6 +1,4 @@
-p {
-       color: #472B83;
-}
-h1 {
-       color: rgb(131,40,60);
+td {
+       width: 400px;
+       height: 300px;
 }
