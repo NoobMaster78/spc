@@ -1,9 +1,4 @@
-h1{
-       font-family: "Times new roman";
-}
-p{
-       font-family: Arial;
-}
-h2{
-       font-family: "Comic Sans MS";
+P {
+       font-size: 30px;
+       line-height: 45px;
 }
