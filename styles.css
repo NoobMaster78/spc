@@ -1,4 +1,5 @@
-
-p{
-font:bold italic 40/60px Arial;
+p {
+       width: 300px;
+       color: red;
+       font: bold 30px Arial !important;
 }
