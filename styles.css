@@ -1,3 +1,25 @@
-a {
-       text-decoration: none;
+h1 {
+       width: 500px;
+       text-align: center;
+ color: blue;
+}
+h2 { 
+       font: arial  ;
+       width: 500px;
+       text-align: center;
+       color: green;
+}
+p {
+       text-align: justify;
+       font: 14px arial;
+       text-indent: 50px;
+width: 500px;
+       text-align: left;
+}
+ul {
+       width: 500px;
+   text-align: left;
+}
+i {
+       color: green;
 }
