@@ -1,6 +1,10 @@
-.red {
-       color: red;
+.eee {
+       font-size: 20px;
 }
-.green{
-       color: green;
+.zzz {
+       font-size: 30px;
+}
+.eee, .zzz{
+       line-size: 1.5;
+       font-family: arial;
 }
