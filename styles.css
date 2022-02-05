@@ -1,3 +1,6 @@
-b {
+.odd {
        color: red;
+}
+.eve {
+       color: green;
 }
