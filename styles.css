@@ -1,13 +1,6 @@
-.eee {
-       font:20px ;
+h2.header {
+       font:40px;
 }
-.zzz {
-       font:30px ;
-}
-.ggg {
-       font:35px;
-}
-.eee, .zzz, .ggg{
-       text-align: center;
-       font-family: Arial;
+h3.header {
+       font:30px;
 }
