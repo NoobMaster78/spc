@@ -1,11 +1,9 @@
-.success {
-       color: green;
+.cvt {
+       color: blue;
 }
-.error {
-       color: red;
+.rzm {
+       font-size: 99px;
 }
-.large {
-       font-size: 30px;
+.shr {
+       font-weight:bold;
 }
-.small {
-       font-size: 20px;
