@@ -1,9 +1,10 @@
-.cvt {
+#elem1 {
+       color: red;
+}
+#elem2 {
+       color: green;
+}
+#elem3
+{
        color: blue;
-}
-.rzm {
-       font-size: 99px;
-}
-.shr {
-       font-weight:bold;
 }
